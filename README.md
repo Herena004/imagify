@@ -167,32 +167,5 @@ We welcome contributions! Here's how you can help:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-<div align="center">
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 </div>
-
-## 🙏 Acknowledgments
-
-<div align="center">
-
-| Resource | Description |
-|----------|-------------|
-| [Heroicons](https://heroicons.com/) | Beautiful icons |
-| [TailwindCSS](https://tailwindcss.com/) | Utility-first CSS framework |
-| [React Community](https://reactjs.org/community) | Amazing React ecosystem |
-
-</div>
-
----
-
-<div align="center">
-
-
-
-</div> 
